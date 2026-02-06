@@ -1,0 +1,27 @@
+ # Python
+    __pycache__/
+    *.pyc
+    *.pyo
+    *.pyd
+    .Python/
+    venv/
+    .env
+    .pytest_cache/
+    .ipynb_checkpoints/
+
+    # Data
+    *.sqlite3
+    *.db
+    *.csv
+    *.json
+    *.pkl
+    *.bin
+    *.npy
+    *.pt
+    *.pth
+    *.safetensors
+    embeddings/
+    vector_store/
+
+    # Logs
+    *.log
