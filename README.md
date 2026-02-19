@@ -1,4 +1,5 @@
-⚠️ Educational Project
-This repository is an experimental study project focused on Retrieval-Augmented Generation (RAG) techniques applied to legal documents.
+⚠️ Disclaimer
 
-This project has no commercial use, no real clients, and no professional legal application.
+Este projeto é destinado exclusivamente a fins educacionais e de demonstração técnica.
+Não deve ser utilizado para tomada de decisões jurídicas reais.
+Não substitui profissionais qualificados da área do Direito.
